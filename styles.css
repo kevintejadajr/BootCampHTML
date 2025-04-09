@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+    color: rgb(0, 0, 100);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header,main{
+    background-color: aliceblue;
+    padding: 50px;
+    text-align: center;
+    border-radius: 20px;
+}
